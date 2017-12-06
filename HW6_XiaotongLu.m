@@ -1,4 +1,16 @@
 %HW6
+%GB comments
+1a 95 no plot labels
+1b 95 no plot labels
+1c 95 no plot labels
+1d 95 no plot labels 
+1e 75 No graph labels. I think you end up rephrasing your first statement and don’t expand on why this behavior is observed. Meaning, why does 100 values provide better results? 
+2a 95 no plot labels
+2b 75 no plot labels. Also your comment tells us the same information the graph provides. Why does this occur though? Why is it special? 
+2c 95 not plot labels
+Overall: 90
+
+
 
 % Problem 1. Curve fitting. 
 % Part 1. Take 10 x values on the interval 0 < x <= 10 and then create y
